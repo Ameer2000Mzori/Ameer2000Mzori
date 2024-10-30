@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Ameer Ameen</h1>
+<h1 align="center">Hi 👋, I'm Ameen Mohammed</h1>
 <h3 align="center">🚀 Passionate Web Developer from the Netherlands | Full Stack Enthusiast | Learning and Building with React, Node.js, MongoDB, Express.js | Udemy Certified | Microverse Bootcamp Explorer 🌐 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ameer2000Mzori&label=Profile%20views&color=0e75b6&style=flat" alt="Ameer2000Mzori" /> </p>
 
